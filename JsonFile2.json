@@ -1,0 +1,15 @@
+{
+"mainView": [
+{
+"categoryName": "Question and answer",
+"categoryImage": "circle"
+},
+{
+"categoryName": "Guessing Animals",
+"categoryImage": "triangle"
+},
+{
+"categoryName": "Guessing sd",
+"categoryImage": "square"
+}
+],

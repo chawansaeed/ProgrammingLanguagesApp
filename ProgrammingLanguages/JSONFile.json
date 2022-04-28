@@ -1,0 +1,95 @@
+{
+    "languages" : [
+       {
+         "name": "Swift",
+         "icons":"swiftIcon",
+         "introduction": "Swift language was developed by ‘Chris Lattner‘ with an aim to resolve difficulties existed in Objective C.Swift is a general-purpose, multi-paradigm, powerful, intuitive and compiled programming language created for iOS, OS X, watchOS, tvOS and Linux developed by Apple Inc. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products. Swift is intended to be more resilient to erroneous code ('safer') than Objective-C and also more concise. It is built with the LLVM compiler framework included in Xcode 6 and later and uses the Objective-C runtime, which allows C, Objective-C, C++ and Swift code to run within a single program. Development on Swift language was begun in July 2010 by Chris Lattner, with the eventual collaboration of many other programmers at Apple. Swift took language ideas from (Objective-C,Rust, Haskell, Ruby, Python, C#, CLU, and far too many others to list). On June 2, 2014, the Worldwide Developers Conference (WWDC) application became the first publicly released app written in Swift.  A beta version of the programming language was released to registered Apple developers at the conference, but the company did not promise that the final version of Swift would be source-compatible with the test version. Apple planned to make source code converters available if needed for the full release. The Swift Programming Language, a free 500-page manual, was also released at WWDC, and is available on the iBooks Store as well as the official website. Swift reached the 1.0 milestone on September 9, 2014, with the {Gold Master} of Xcode 6.0 for iOS.  Swift 1.1 was released on October 22, 2014, alongside the launch of Xcode 6.1.                                                          Swift 1.2 was released on April 8, 2015, in conjunction with Xcode 6.3.                                                                        Swift 2.0 was announced at WWDC 2015, and was made available for publishing apps in the App Store in September 21, 2015.  A Swift 3.0 roadmap was announced on the Swift blog on December 3, 2015. However, prior to that an intermediate Swift 2.2 version embracing new syntax and features has been introduced.  This also shuns certain outdated components including Tuple splat syntax, C-style for loops and ++ and -- operators. Swift won first place for Most Loved Programming Language in the Stack Overflow Developer Survey 2015 and second place in 2016. ",
+        "usage":"",
+                   
+        "introLabel":"Introduction",
+        "historyLabel":"History",
+        "usageLabel":"Usage",
+        "factsLabel":"Some facts"
+       }, {
+       "name": "Python",
+       "icons":"pythonIcon",
+       "introduction":"",
+        "usage":"",
+                
+        "introLabel":"Introduction",
+        "historyLabel":"History",
+        "usageLabel":"Usage",
+        "factsLabel":"Some facts"
+       }, {
+       "name": "Java",
+       "icons":"javaIcon",
+       "introduction":"",
+        "usage":"",
+                   
+        "introLabel":"Introduction",
+        "historyLabel":"History",
+        "usageLabel":"Usage",
+        "factsLabel":"Some facts"
+       }, {
+       "name": "C#",
+       "icons":"c#Icon",
+       "introduction":"",
+        "usage":"",
+                   
+        "introLabel":"Introduction",
+        "historyLabel":"History",
+        "usageLabel":"Usage",
+        "factsLabel":"Some facts"
+       }, { 
+       "name": "C++",
+       "icons":"c++Icon",
+       "introduction":"",
+        "usage":"",
+                   
+        "introLabel":"Introduction",
+        "historyLabel":"History",
+        "usageLabel":"Usage",
+        "factsLabel":"Some facts"
+       }, {
+       "name": "C",
+       "icons":"c-Icon",
+       "introduction":"",
+        "usage":"",
+                   
+        "introLabel":"Introduction",
+        "historyLabel":"History",
+        "usageLabel":"Usage",
+        "factsLabel":"Some facts"
+       }, {
+       "name": "Ruby",
+       "icons":"rubyIcon",
+       "introduction":"",
+        "usage":"",
+            
+        "introLabel":"Introduction",
+        "historyLabel":"History",
+        "usageLabel":"Usage",
+        "factsLabel":"Some facts"
+       }, {
+       "name": "Kotlin",
+       "icons":"kotlinIcon",
+       "introduction":"",
+        "usage":"",
+            
+        "introLabel":"Introduction",
+        "historyLabel":"History",
+        "usageLabel":"Usage",
+        "factsLabel":"Some facts"
+       }, {
+       "name": "Objective C",
+       "icons":"objectice-c-Icon",
+       "introduction":"",
+        "usage":"",
+                   
+        "introLabel":"Introduction",
+        "historyLabel":"History",
+        "usageLabel":"Usage",
+        "factsLabel":"Some facts"
+       }
+    ]
+}
